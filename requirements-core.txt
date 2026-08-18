@@ -1,0 +1,2 @@
+# The taqti package itself has ZERO third-party dependencies (stdlib only).
+# This file exists to make that explicit for minimal installs.

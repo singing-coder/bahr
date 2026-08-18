@@ -1,0 +1,4 @@
+# Core engine: stdlib only, no dependencies.
+# Pinned extras below reproduce the dev + webapp environment exactly.
+pytest==8.3.4
+streamlit==1.41.1
